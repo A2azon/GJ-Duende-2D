@@ -110,6 +110,9 @@ TextureImporter:
   - first:
       213: 6737814844834998165
     second: Spritesheet_Environment_27
+  - first:
+      213: -4041814666151103813
+    second: Spritesheet_Environment_28
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -780,6 +783,48 @@ TextureImporter:
       bones: []
       spriteID: b19994a3d1c9347c0800000000000000
       internalID: -4088252387376391909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Environment_27
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 502
+        width: 35
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5976eb427e6818d50800000000000000
+      internalID: 6737814844834998165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Environment_28
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 502
+        width: 22
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27910c9f698e7c0800000000000000
+      internalID: -4041814666151103813
       vertices: []
       indices: 
       edges: []
